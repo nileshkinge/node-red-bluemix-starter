@@ -8,6 +8,10 @@ IBM Cloud with only a couple clicks. Try it out for yourself right now by clicki
 
 [![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/knolleary/node-red-bluemix-starter.git)
 
+This is a fork of the Node-RED in Bluemix boilerplate that integrates the following :
+
+- Include EXEC node
+
 ### How does this work?
 
 When you click the button, you are taken to IBM Cloud where you get a pick a name
